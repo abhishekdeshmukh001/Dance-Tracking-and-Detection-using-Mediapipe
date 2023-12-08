@@ -24,12 +24,11 @@ The project is organized into the following components:
 #### 4] Output Video:
 * Creates an output video with annotated pose landmarks, providing a visual representation of the dance movements.
 * Output video is saved for further analysis or sharing.
-* 
 
-* 
+
 ## Results:
 * The resulting video showcases the dance movements with annotated pose landmarks in real-time. The accuracy and efficiency of the pose estimation contribute to a visually informative representation of the dancer's poses.
-* 
+
 
 - **Final Ouput:**
 
